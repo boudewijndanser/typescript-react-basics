@@ -10,7 +10,7 @@ var config = {
   },
 
   module: {
-      mode: 'development',
+      
     rules: [
       {
         test: /\.tsx?$/,
